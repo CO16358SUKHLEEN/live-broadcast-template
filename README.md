@@ -1,0 +1,1 @@
+For pm2 - NODE_ENV=production pm2 start --name=live-broadcast bin/www
